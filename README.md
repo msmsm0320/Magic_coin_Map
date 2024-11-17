@@ -32,7 +32,6 @@
 - **블루프린트 기능**:
   - `Land_of_Mystery` 배경음악 재생
   - 크라켄의 공격 상황 재현 (`Collapse01` 효과음)
-  - 
 ![image](https://github.com/user-attachments/assets/59608774-40e3-4c00-a91b-7b864b9cc6f5)
 ![image](https://github.com/user-attachments/assets/e188d708-de9a-4f28-b381-c3239429ed9c)
 
@@ -43,13 +42,11 @@
   - 장소 설명을 `Print String`으로 표시
 ![image](https://github.com/user-attachments/assets/428acb4b-cabc-45de-a0b7-55a374068a19)
 ![image](https://github.com/user-attachments/assets/5a0b7412-60e1-498b-938c-5de484b03177)
- ![image](https://github.com/user-attachments/assets/d87b22f6-e6d1-4cb1-81c7-2afeb62e4b58)
 
 ![image](https://github.com/user-attachments/assets/ed2a3d51-eab0-4e59-9628-54ac1a039511)
 ![image](https://github.com/user-attachments/assets/9c0359f2-c4dc-4994-a01e-f4b49e7c8f31)
 
 ![image](https://github.com/user-attachments/assets/212e69d9-2b38-48a1-97fa-89681fa000ba)
-![image](https://github.com/user-attachments/assets/144603ca-bdb1-42ab-b72c-d8eb9845e108)
 
 ### Map_06_Interior
 - 5개의 보물을 모두 모으면 이동하는 마지막 장소입니다.
@@ -67,12 +64,16 @@
     - `Print String`으로 획득 메시지 표시
     - `Coin_short` 효과음 재생
     - 보물 객체 제거 (`Destroy Actor`)
+   
+  
 ![image](https://github.com/user-attachments/assets/d949465c-3566-4bb1-8a4c-4c72927e80ed)
 
 ### 기타 게임 메커니즘
 - **움직이는 발판**:
   - `InterpToMovement` 컴포넌트를 활용하여 발판이 지정된 위치를 이동하도록 설정
   - 여러 맵에서 6개의 발판 배치
+ 
+  
  ![image](https://github.com/user-attachments/assets/53f8b078-25f2-44f6-9ca2-6fb89fbef486)
  ![image](https://github.com/user-attachments/assets/27310bda-e395-4963-9c4c-7c727e497966)
  ![image](https://github.com/user-attachments/assets/b44fd68e-0eca-42e8-ad8f-54d46270a726)
@@ -81,15 +82,21 @@
 - **슈퍼 점프 발판**:
   - `Duration` 값을 0으로 설정하여 빠르게 움직이는 발판을 구현
   - 플레이어가 발판에서 점프하면 높이 뛸 수 있음
+ 
+  
 ![image](https://github.com/user-attachments/assets/faad3ceb-6554-4b54-8c28-76c23b702f47)
 
 - **맵 이동 문**:
   - 플레이어가 문에 닿으면 `Open Level(by Name)`을 통해 다음 맵으로 이동
+ 
+  
 ![image](https://github.com/user-attachments/assets/3e87b2e5-8592-4f62-be7f-bdc33c89336b)
 
 - **몬스터**:
   - 크라켄, 드래곤, 그리폰, 늑대 등 다양한 몬스터 구현
   - 플레이어와 충돌 시 공격 애니메이션 실행
+ 
+  
 ![image](https://github.com/user-attachments/assets/0e043103-7e75-473a-8396-0fc18042f74e)
 ![image](https://github.com/user-attachments/assets/e2645c30-a273-4dba-8f3c-8bac32020d71)
 ![image](https://github.com/user-attachments/assets/2fb0eaf9-3a71-4b09-96b5-1da7e27b5ac0)
