@@ -32,6 +32,8 @@
 - **블루프린트 기능**:
   - `Land_of_Mystery` 배경음악 재생
   - 크라켄의 공격 상황 재현 (`Collapse01` 효과음)
+ 
+  
 ![image](https://github.com/user-attachments/assets/59608774-40e3-4c00-a91b-7b864b9cc6f5)
 ![image](https://github.com/user-attachments/assets/e188d708-de9a-4f28-b381-c3239429ed9c)
 
@@ -40,6 +42,8 @@
 - **블루프린트 기능**:
   - `Epic_Fantasy` 배경음악 재생
   - 장소 설명을 `Print String`으로 표시
+
+
 ![image](https://github.com/user-attachments/assets/428acb4b-cabc-45de-a0b7-55a374068a19)
 ![image](https://github.com/user-attachments/assets/5a0b7412-60e1-498b-938c-5de484b03177)
 
@@ -98,6 +102,8 @@
  
   
 ![image](https://github.com/user-attachments/assets/0e043103-7e75-473a-8396-0fc18042f74e)
+
+
 ![image](https://github.com/user-attachments/assets/e2645c30-a273-4dba-8f3c-8bac32020d71)
 ![image](https://github.com/user-attachments/assets/2fb0eaf9-3a71-4b09-96b5-1da7e27b5ac0)
 ![image](https://github.com/user-attachments/assets/564c6ee6-b266-4743-8ef1-6a41e4815af6)
