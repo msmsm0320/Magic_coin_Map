@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/428acb4b-cabc-45de-a0b7-55a374068a19)# 중세 탈출 맵: 언리얼 엔진 프로젝트
+# 중세 탈출 맵: 언리얼 엔진 프로젝트
 
 ## 프로젝트 개요
 이 프로젝트는 **가상현실 프로그래밍 기말 과제**로, Unreal Engine 5를 사용하여 제작된 게임입니다. 플레이어는 마법에 걸린 여관을 탐험하며 흩어진 보물을 원래 자리로 되돌려 여관의 저주를 풀어야 합니다.
@@ -41,7 +41,7 @@
 - **블루프린트 기능**:
   - `Epic_Fantasy` 배경음악 재생
   - 장소 설명을 `Print String`으로 표시
-
+![image](https://github.com/user-attachments/assets/428acb4b-cabc-45de-a0b7-55a374068a19)
 ![image](https://github.com/user-attachments/assets/5a0b7412-60e1-498b-938c-5de484b03177)
  ![image](https://github.com/user-attachments/assets/d87b22f6-e6d1-4cb1-81c7-2afeb62e4b58)
 
